@@ -121,7 +121,7 @@ int repTime = 0; //First logo repeat times
 String jsonBuffer;
 
 String city="London";
-#String openWeatherMapApiKey = "7e04cc3aaf4976b9ffd56f77d83b1fa4";
+
 String temperature_unit = "metric";
 
 
